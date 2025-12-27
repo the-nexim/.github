@@ -1,7 +1,3 @@
-Here is the comprehensive **Git Commit Convention Guide** in English, formatted in Markdown. You can copy this directly into a file named `CONTRIBUTING.md`, `COMMIT_CONVENTION.md`, or your internal wiki (Notion/Confluence).
-
----
-
 # Git Commit Convention Guide
 
 This document defines the standards for commit messages in our team. Our goal is to maintain a clear, readable, and machine-processable history that allows us to automate versioning and changelog generation.
